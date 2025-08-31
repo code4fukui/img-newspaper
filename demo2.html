@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><link rel="icon" href="data:">
+<style>
+img-newspaper {
+  width: 100%;
+}
+</style>
+<script type="module">
+import { ImageNewspaper } from "./img-newspaper.js";
+
+const imgnp = new ImageNewspaper();
+const img = new Image();
+img.src = "./jigintern2025.jpg";
+
+img.onload = () => {
+  imgnp.setImage(img);
+}
+document.body.appendChild(imgnp);
+</script>
+
+<img-newspaper src="./jigintern2025.jpg"></img-newspaper>
