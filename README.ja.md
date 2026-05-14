@@ -4,7 +4,7 @@ WebGLベースの画像フィルターで、カスタムHTML要素 `<img-newspap
 
 ## デモ
 
-[**ライブデモ**](https://code4fukui.github.io/img-newspaper/)
+[**ライブデモ**](~~https://code4fukui.github.io/img~~ *(unavailable)*-newspaper/)
 
 インタラクティブなデモでは、画像をアップロードし、すべてのフィルターパラメーターをリアルタイムで調整できます。
 
@@ -29,4 +29,4 @@ WebGLをサポートするモダンWebブラウザ。
 CDNからスクリプトを読み込み、HTML内で `<img-newspaper>` タグを使用します。
 
 ```html
-<script type="module" src="https://code4fukui.github.io/img
+<script type="module" src="~~https://code4fukui.github.io/img~~ *(unavailable)*

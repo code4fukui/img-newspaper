@@ -6,7 +6,7 @@ A WebGL-based image filter that applies a newspaper-style halftone effect using 
 
 ## Demo
 
-[**Live Demo**](https://code4fukui.github.io/img-newspaper/)
+[**Live Demo**](~~https://code4fukui.github.io/img~~ *(unavailable)*-newspaper/)
 
 The interactive demo allows you to upload an image and adjust all filter parameters in real-time.
 
@@ -31,4 +31,4 @@ A modern web browser with WebGL support.
 Include the script from a CDN and use the `<img-newspaper>` tag in your HTML.
 
 ```html
-<script type="module" src="https://code4fukui.github.io/img
+<script type="module" src="~~https://code4fukui.github.io/img~~ *(unavailable)*
